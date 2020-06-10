@@ -13,7 +13,11 @@ git clone --recursive htpps://github.com/mathiasbredholt/arduino-esp32.git
 ```
 git clone --recursive htpps://github.com/mathiasbredholt/MapLooper-tstick
 ```
-- Build with
+- Build
 ```
 idf.py build -DARDUINO_PATH=[put arduino-esp32 path here]
+```
+- Flash
+```
+idf.py flash
 ```
