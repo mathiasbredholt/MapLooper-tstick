@@ -10,3 +10,6 @@
 [submodule "components/blemidi-idf"]
 	path = components/blemidi-idf
 	url = https://github.com/mathiasbredholt/blemidi-idf.git
+[submodule "components/MapLooper"]
+	path = components/MapLooper
+	url = https://github.com/mathiasbredholt/MapLooper
